@@ -1,0 +1,246 @@
+About the job
+Ciena is committed to our people-first philosophy. Our teams enjoy a culture focused on prioritizing a personalized and flexible work environment that empowers an individual’s passions, growth, wellbeing and belonging. We’re a technology company that leads with our humanity—driving our business priorities alongside meaningful social, community, and societal impact.
+
+What will you do at Ciena?
+
+A software designer is required to aid in the development of a Standalone/Server-based/Web based/Cloud based, network design and engineering application for Real Time Network Planning. This application is developed for Ciena’s innovative Blue PlanetTM platform. The application will assist customers in the design and development of Ciena’s market leading and pioneering optical products and technologies.
+
+This application is used to design and deploy Ciena’s Transport, Switching and Packet hardware for Long haul, Regional and Metro networks.
+
+The successful candidate will be expected to follow a disciplined approach for developing high quality application, to the required specifications, and by the required delivery date.
+
+The successful candidate will have the opportunity to work with a dynamic team of engineers and software designers.
+
+Responsibilities
+Analyze, design and Implement the requirement in software to validate and optimize networks, which are crafted based on a variety of parameters.
+Apply design principles to work in a client server, microservice-based or desktop based development environment and keeping in mind performance and memory constraints.
+Work collaboratively with Product Owners, Product Line Managers (PLM) and Verification team.
+Complete assigned development tasks including unit testing and documenting work.
+Translate functional requirements into development tasks and provide estimates.
+Investigating and debugging of reported issues
+Keep yourself abreast with the newest technology trends
+General Activities
+Work in Agile Scrum and build/update Jira’s with detailed description and acceptance criteria.
+Design and Implementation
+Unit testing & integration testing.
+Work with product verification team in resolving feature defects.
+Experience
+
+Candidate should have 2+ years of experience in following:
+End-to-end software development (requirements analysis, design, implementation, testing, and support) - Critical
+Languages
+Dynamic Languages – Python – Critical
+Framework – Django - Critical
+Knowledge of Dockers, Linux - Desirable
+C++ (C++ 11 or later preferred) – Desirable
+React.js, Ember.js - Desirable
+C#.Net, OOPS - Desirable
+Cloud Environment – AWS (Preferred), Azure - Critical
+Platform
+Linux, MicroServices
+Message Queues like Kafka
+DB/File Formats/ORM
+No SQL Databases e.g. Cassandra
+JSON, XML
+nHibernate/Hibernate/Entity Framework
+Client/Server
+REST API, Web Services, SOAP.
+Decent Knowledge of Data Structures and exposure to Performance Improvement - Critical
+Additional Skills
+Problem Solving, Excellent Aptitude and Positive Attitude - Critical
+Good Communication Skills - Critical
+Good Interpersonal Skills - Critical
+Exposure to docker containers - Desired
+Experience with Agile software development methodologies – Desired
+Familiarity/experience with other technologies, including database design, Client/Server etc. is considered an asset
+At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard. Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.
+
+If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.
+About the job
+About The Role
+
+Job Description
+
+Numerator is looking for a talented and passionate Python Engineer to join our team. As part of our Insights backend team, you will be building new and improving existing services powering the Insights platform. This is a fast-paced role with high growth, visibility, impact, and where many of the decisions for new projects will be driven by you and your team from inception through production. If you are seeking an environment where you get to do meaningful work with other great engineers, then we want to hear from you!
+
+Requirements
+
+At least 2+ years of experience with Python
+Well versed in building the backend logic of web applications
+Strong database skills (e.g. MySQL or Postgres)
+Solid foundation in designing and developing scalable API’s
+Understanding of general web architecture
+A Bachelors, Masters, or PhD in Computer Science, Information Technology, Computer Engineering or some related discipline, or equivalent experience
+
+Nice to have
+
+Experience with AWS
+Experience with multithreaded programming
+Comfortable with version control systems
+Familiarity with message oriented architectures (Celery, RabbitMQ)
+Familiarity with container-orchestration (Kubernetes)
+
+What We Offer You
+
+An inclusive and collaborative company culture
+An opportunity to have an impact on our growing teams and organization
+Ownership of platforms and environments with industry leading product
+Market competitive total compensation package
+Volunteer time off and charitable donation matching
+Strong support for career growth, including mentorship programs, leadership training, access to conferences and employee resource groups
+Regular hackathons to build your own projects and work with people across the entire company
+
+If this sounds like something you would like to be part of, we’d love for you to apply! Don't worry if you think that you don't meet all the qualifications here. The tools, technology, and methodologies we use are constantly changing and we value talent and interest over specific experience.
+About the job
+Asset Management Newton team provides solutions across key Risk data for Asset & wealth management LOB.
+
+We are looking for an individual (6-10 yrs) who will be responsible for the technical delivery of the strategic Risk platform (DB - Oracle PL/SQL, Python, AWS).
+
+Key Responsibilities
+
+Identify, analyze, and interpret trends or patterns in complex data sets
+Innovate new ways of managing, sourcing, transforming and validating data
+Establish and enforce guidelines to ensure consistency, quality and completeness of data assets
+Apply quality assurance best practices to all work products
+Analyze, design and code business-related solutions, as well as core architectural changes, using an Agile programming approach resulting in software delivered on time and in budget
+
+Requirements
+
+Bachelor's or Master's degree in Computer Science/Software Engineering or a related field
+Deeply passionate about learning and innovating using the latest and greatest in big data engineering, cloud.
+Extensive experience in Oracle PL/SQL, SQL Tuning.
+Hands on experience in Python Programming.
+Experience in cloud application development - AWS
+Preferred to have knowledge on big data technologies such as Hadoop, HDFS, Hive, Spark.
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+About the job
+Must have skills :
+
+Hands on experience with Django, Flask or other Python frameworks
+Good understanding of server-side templating languages such as Jinja 2, Mako, etc
+Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+Familiarity with some ORM (Object Relational Mapper) libraries
+
+Good to have skills :
+
+Excellent interpersonal, organizational, written communication, oral communication and listening skills
+Should come up with the work estimation and should provide inputs to managers on resource and risk planning.
+Ability to coordinate with SMEs , stakeholders, manage timelines, escalation & provide on time status
+
+Qualification :
+Must have 4+ years of experience.
+
+Location :
+Bangalore
+Hyderabad
+About the job
+Python Developer(Fully Remote-Fulltime Contractual)
+
+Turing is the career platform for 1.1M+ engineers around the world. Our mission is to unleash the world’s untapped human potential. We use machine learning and automation to source and match exceptional software engineers from around the world to top U.S. and Silicon Valley companies for remote developer positions.
+
+We’re headquartered in Palo Alto, California, and are a remote-first company with 500+ strong team members.
+We have raised a total of $140 Million at a $1.1B valuation (T).
+We have grown > 10x in the last year.
+Turing has been featured in America's best start-up employers by Forbes, 2021 and in the Top 10 most innovative workplace companies by Fast Company, 2021.
+Turing’s customers include Microsoft, Twitter, Airbnb, Lyft, PayPal, and hundreds of other Fortune 500 companies and fast-growing start-ups.
+
+Job Description-
+Our client A US-based company on a mission to ensure the power of AI technology benefits all mankind is looking for a Python Developer. The selected candidate will be working on designing and developing optimized solutions and implementing them. The company is leveraging highly autonomous systems and APIs that can be applied to any language task to handle millions of production requests per day. The company has secured nearly $1bn in funds so far.
+Job Responsibilities:
+Work with problem-solving to handle complex situations with ease
+Write high-quality and optimal code in Python
+Provide clear explanations of the thought process/logic while writing codes in Jupyter notebooks
+Debugging and creating the necessary documentation
+Perform peer review of code and provide feedback
+Job Requirements:
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a software engineer
+At least 3+ years of experience in Python programming
+Ability to solve problems and think critically
+Fluent in spoken and written English
+Required: Python-4Yrs +
+Location: India (Fully Remote)
+*Note-Please attach your resume in the English Language.
+
+Great benefits of joining Turing:
+Amazing work culture (Super collaborative & supportive work environment; 5 days a week)
+Awesome colleagues (Surround yourself with top talent from Meta, Google, LinkedIn etc. as well as people with deep start-up experience)
+Competitive compensation in US$
+Expect fast career growth (High growth unicorn firm)
+Flexible work timings
+Full-time remote opportunity
+
+Company Link- https://www.turing.com/
+LinkedIn: https://www.linkedin.com/company/turingcom/
+Twitter: https://twitter.com/turingcom?lang=en
+YouTube: https://www.youtube.com/channel/UCLfxdtB3H0JdnniBnd4DoN
+hturing.com
+
+Turing - Hire Remote Developers | Top 1% of 1 Million+ software engineers
+Turing.com - Hire Remote Developers | Silicon Valley caliber software engineers | Remote U.S. developer jobs | Full-stack, mobile, frontend, backend DevOps, AI/ML. (47 kB)
+https://www.turing.com/
+etwitter.com
+Turing - Spin Up Your Engineering Dream Team (@turingcom) | Twitter
+The latest Tweets from Turing - Spin Up Your Engineering Dream Team (@turingcom). Spin up your engineering dream team. Turing’s Intelligent Talent Cloud uses A.I. to source, vet, match & manage one million+ devs worldwide. Palo Alto, CA
+
+`
+About the job
+Must have skills
+Automation – 70%
+Manual – 30%
+Oops Concepts
+Networking
+Python Coding
+Linux
+Robot test framework or Python Test framework
+Role and Responsibility:
+1. Develop test cases for the given requirements and design
+2. Execute test cases
+3. Work independently as much as possible
+4. Help and guide entry level team members
+5. Report road blocks, design issues, etc to Team Lead
+6. Report status of tasks daily
+About the job
+Position: Python Developer
+Job Location -Bangalore , Hyderabad, Delhi NCR
+Experience required : 3+ years of experience
+
+Skill set:
+Python Programming
+Exposure to Object Oriented Programming and software design concepts
+Web/App Server – IIS /Tomcat Apache/JBoss
+Web Services (SOAP / REST)
+XML / XSLT / JSON / REGEX
+PostgreSQL / MS SQL / MySQL
+Exposure to Unix / Linux environments
+Good understanding of TCP/IP & Networking concepts
+Exposure to Virtualization domain (VMware or OpenStack)
+Expertise working in IDE environments like Eclipse
+Experience in all phases of software development lifecycle and software lifecycle tools
+Hands-on development experience is must
+
+Method to Apply:
+Share updated CV with below required details at neharika.dubey@tcs.com
+
+EP number if already registered in iBegin portal/ Registered email id if don’t remember EP number:
+Full Name:
+Email ID:
+Contact number:
+Total experience:
+Current Payroll company:
+Current location:
+Preferred Job Locations:
+Notice period( Please specify LWD if serving notice) :
+CTC:
+Expected CTC:
+Offers in hand(with salary details):
+Please specify if any gap in between education and employment:
+Highest Fulltime education:
+University/institute name of Highest education:
+
+Note:
+EX-TCS(Fulltime employee) Dont Apply
+Candidates with less than 3 years of experience will not be considered.
