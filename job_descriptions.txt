@@ -1,365 +1,68 @@
 About the job
-We are looking for a senior Devops consultant to augment our team of Open Source technology enthusiasts. The person should have the ability to learn new areas and try to take newer challenges. Few other areas that we would like the person to know about are:
+Hungry, Humble, Honest, with Heart
 
-Knowledge of container technologies such as Docker and Kubernetes.
-Knowledge of tools like Ansible, Chef or Puppet would be an added advantage
-Some experience on Openstack deployment
-Experience with configuring and extending monitoring tools (Nagios, Prometheus and Grafana)
-Awareness of Open Source tech like ELK
-Troubleshooting experience on Linux
+The Opportunity
 
-It would be nice to have a person who has failed more than once and learnt from experiences. We would not like to have people who have not made any blunder while on job. We would be ecstatic to have people who have been able to recover from the depths of hopelessness in customer environments. People who have recovered lost ground with customers will be our ideal candidates
+Nutanix engineers are creating a revolutionary technology, building the software defined data center. We’re using our love of programming and outstanding backgrounds to change the way companies virtualize their data center. At Nutanix, you’ll find no shortage of challenging problems to work on. We work closely with our product in a collegiate, collaborative environment that encourages the open exploration of ideas..
 
-Above mentioned areas are just a start, once you are with us, you will have exposure to the latest and most cutting edge.
+Your Role:-
 
-Do apply if:
-You like to challenge yourself
-You wish to someday be an entrepreneur yourself
-You have a knack to mentor juniors
-You like to learn about technology in your spare time
-You do not shy away from helping your customer - whatever it takes!
 
-We expect the for the right person to be around of INR 10LPA plus incentive though it should not be a constraint for the right candidate. Candidate would be required to work onsite (no remote) in Delhi NCR location initially.
-
-Experience level - Above 5 years
+What You’ll Bring:-
 About the job
-About The Role
+About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com
 
-At ANZ our purpose is to shape a world where people and communities thrive. We’re making this happen by improving our customers’ financial wellbeing so they can achieve incredible things – be it buying their home, building a business or saving for things big or small.
-
-At ANZ, the Information Protection tribe partners with the business and technology to ensure Security @ Speed by delivering improvements to controls that reduce the extreme information protection risk for the bank and ensuring that our existing platforms are maintained and well managed.
-
-As an Engineer in the Encryption as a Service squad, you will be working to expand the HashiCorp Vault footprint in the bank to allow applications to scale up rapidly and securely. This role will require you to enable systems to enhance their functional capabilities in automation, cloud coverage and instrument/product coverage.
-
-About ANZ
-Experience with HashiCorp Vault or similar Encryption as a Service solution;
-Experience with deploying and managing an application hosted on cloud platforms (AWS/GCP);
-CI/CD Tools – Bamboo, Bitbucket/Github/Codefresh, Puppet/Terraform, Artifactory, Docker Registry;
-Linux administrator skills and TCP/IP network fundamentals;
-Infrastructure management (UNIX/Docker/Kubernetes);
-Strong programming and scripting background in shell/bash scripting, python;
-Experience with configuration management tools such as Ansible;
-Experience with authentication protocols (Basic Auth, OAuth, Kubernetes Auth, LDAP);
-Experience with monitoring tools such as Dynatrace, Splunk and New Relic;
-Passionate, self-starter with the ability to work on problems from inception to completion;
-Strong communication skills; and Excellent analytical and problem solving skills.
-You’re not expected to have 100% of these skills. At ANZ a growth mindset is at the heart of our culture and we actively encourage people to try new things. So if this role interests you and you feel you have most of these things in your toolbox, we’d love to hear from you.
-
-Internal Candidates
-
-For additional information on the level of mastery and experience required for each role please visit the Max site. Additional information on these roles, along with general information on our Engineer opportunities and selection approach is available here .
-
-What will you bring?
-
-We know not everyone will bring all of the skills and experience, and at ANZ we are focused on people bringing a growth mindset to their approach to work. Some of the skills we are looking for are below, but don’t worry if you don’t have all of these as learning on the job is the way we work.
-
-But back to some of the skills –
-Customer coaching mindset
-Leadership experience
-Role models a strong customer focus, preferably with retail experience
-Enjoys working in a collaborative team environment
-Ability to multi-task, highly adaptable to change and ambiguity
-Proactive, shows initiative and keen to try new things i.e. new technologies
-
-So, why join us?
-
-There’s something special about being part of ANZ. From the moment you join us, you’re part of a team working towards a common goal: improving the financial wellbeing and sustainability of our millions of customers. And that’s big.
-
-But it’s not just our customers who will feel your impact. You’ll feel it too. Because at ANZ, you’ll have the resources and community you need to take the next big step in your career, towards even bigger things in the future.
-
-We offer a range of benefits tailored to the countries in which we operate to provide all our people:
-Health and wellbeing programs
-Discounts on selected products and services (from ANZ and beyond)
-Flexible working arrangements, lifestyle leave and career breaks
-
-You’ll also enjoy working in a diverse and inclusive workplace where the different backgrounds, perspectives and life experiences of our people are celebrated. We encourage you to talk to us about any adjustments you may require to our recruitment process or the role itself. If you are a candidate with a disability, let us know how we can provide you with additional support.
-
-To find out more about working at ANZ or to view other opportunities visit www.careers.anz.com. You may apply for this role by visiting ANZ Careers and searching for reference number 31465.
-
-Job Posting End Date
-
-10/02/2023
+15 years of full time education
 About the job
-About The Role
+Requirement :
 
-At ANZ our purpose is to shape a world where people and communities thrive. We’re making this happen by improving our customers’ financial wellbeing so they can achieve incredible things – be it buying their home, building a business or saving for things big or small.
+Solution Architect with 12 + years of experience
 
-At ANZ, the Information Protection tribe partners with the business and technology to ensure Security @ Speed by delivering improvements to controls that reduce the extreme information protection risk for the bank and ensuring that our existing platforms are maintained and well managed.
+Design and develop end-to-end software solutions using Python and java ensuring scalability, reliability, and performance. 
 
-As an Engineer in the Encryption as a Service squad, you will be working to expand the encryption and cloud key management services in the bank to allow applications to scale up rapidly and securely. This role will require you to enable systems to enhance their functional capabilities in automation, cloud coverage and instrument/product coverage.
 
-The other key component of this role is to utilise your technology engineering expertise by collaborating with architecture and product owner to develop our technology roadmap and assess new technologies which drive improvement on excellence, quality and performance to ANZ globally.
+Diversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.
 
-About You
-Experience with HashiCorp Vault (Advance Data Protection) or similar Encryption as a Service solution
-Experience or background in key management fundamentals
-Good experience with deploying and managing Kubernetes clusters and application hosted on cloud platforms (AWS/GCP);
-Good experience CI/CD Tools – Bitbucket/Github/Codefresh, Artifactory, Docker Registry;
-Experience in Linux administration and background in TCP/IP network fundamentals;
-Good programming and scripting background in shell/bash scripting, python;
-Experience with provisioning\configuration management tools such as puppet, terraform;
-Experience with authentication protocols (Basic Auth, OAuth, Kubernetes Auth, LDAP);
-Experience with monitoring tools such as Dynatrace, Splunk, New Relic;
-Passionate, self-starter with the ability to work on problems from inception to completion;
-Good communication skills; good analytical and problem solving skills.
-You’re not expected to have 100% of these skills. At ANZ a growth mindset is at the heart of our culture and we actively encourage people to try new things. So if this role interests you and you feel you have most of these things in your toolbox, we’d love to hear from you.
+All employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
 
-Soft Skills
-
-A team player - You know we only win if we all win. You recognise and value the different perspectives and skills your colleagues bring. It is not about being a hero but jumping in and contributing to the successful delivery of the team's mission
-
-The customer's biggest fan - You demonstrate a thirst for better understanding the customer and define the problem and develop solutions through their eyes
-
-Comfortable being uncomfortable - You are comfortable with uncertainty and have the ability to effectively manage yourself through ambiguity and change
-
-Continuous improvement junkie - You constructively challenge the status quo, look for better ways to do things and passionately advocate continuous improvement
-
-Committed to your own and other's growth - You strive to stretch and grow yourself and others by identifying your own development areas, seeking feedback and providing feedback to others to help them learn and grow everyday
-
-A problem solver - You are energised by tackling complex problems and use critical thinking, your network, skills, knowledge, and available data to drive better outcomes for our customers and the bank
-
-Risk savvy - You build sustainable solutions that protect customers, stakeholders and the community
-
-What will you bring?
-
-We know not everyone will bring all of the skills and experience, and at ANZ we are focused on people bringing a growth mindset to their approach to work. Some of the skills we are looking for are below, but don’t worry if you don’t have all of these as learning on the job is the way we work.
-
-But back to some of the skills –
-Customer coaching mindset
-Leadership experience
-Role models a strong customer focus, preferably with retail experience
-Enjoys working in a collaborative team environment
-Ability to multi-task, highly adaptable to change and ambiguity
-Proactive, shows initiative and keen to try new things i.e. new technologies
-
-So, why join us?
-
-There’s something special about being part of ANZ. From the moment you join us, you’re part of a team working towards a common goal: improving the financial wellbeing and sustainability of our millions of customers. And that’s big.
-
-But it’s not just our customers who will feel your impact. You’ll feel it too. Because at ANZ, you’ll have the resources and community you need to take the next big step in your career, towards even bigger things in the future.
-
-We offer a range of benefits tailored to the countries in which we operate to provide all our people:
-Health and wellbeing programs
-Discounts on selected products and services (from ANZ and beyond)
-Flexible working arrangements, lifestyle leave and career breaks
-
-You’ll also enjoy working in a diverse and inclusive workplace where the different backgrounds, perspectives and life experiences of our people are celebrated. We encourage you to talk to us about any adjustments you may require to our recruitment process or the role itself. If you are a candidate with a disability, let us know how we can provide you with additional support.
-
-To find out more about working at ANZ or to view other opportunities visit www.careers.anz.com. You may apply for this role by visiting ANZ Careers and searching for reference number 31482.
-
-Job Posting End Date
-
-10/02/2023
+Candidate Application Notice
 About the job
-About The Role
+Application Developer – Python
 
-At ANZ our purpose is to shape a world where people and communities thrive. We’re making this happen by improving our customers’ financial wellbeing so they can achieve incredible things – be it buying their home, building a business or saving for things big or small.
+The successful candidate will develop Python based applications for the Smart Platform in collaboration with Product Management and fellow members of the Engineering Group.
 
-At ANZ, the Information Protection tribe partners with the business and technology to ensure Security @ Speed by delivering improvements to controls that reduce the extreme information protection risk for the bank and ensuring that our existing platforms are maintained and well managed.
-
-As an Engineer in the Encryption as a Service squad, you will be working to expand the encryption and cloud key management services in the bank to allow applications to scale up rapidly and securely. This role will require you to enable systems to enhance their functional capabilities in automation, cloud coverage and instrument/product coverage.
-
-The other key component of this role is to utilise your technology engineering expertise by collaborating with architecture and product owner to develop our technology roadmap and assess new technologies which drive improvement on excellence, quality and performance to ANZ globally.
-
-About You
-Knowledge of HashiCorp Vault (Advance Data Protection) or similar Encryption as a Service solution
-Knowledge or background in key management fundamentals
-Understanding of deploying and managing Kubernetes clusters and application hosted on cloud platforms (AWS/GCP);
-Understanding of CI/CD Tools – Bitbucket/Github/Codefresh, Artifactory, Docker Registry;
-Knowledge in Linux administration and background in TCP/IP network fundamentals;
-Good programming and scripting background in shell/bash scripting, python;
-Understanding of provisioning\configuration management tools such as puppet, terraform;
-Understanding of authentication protocols (Basic Auth, OAuth, Kubernetes Auth, LDAP);
-Understanding of monitoring tools such as Dynatrace, Splunk, New Relic;
-Passionate, self-starter with the ability to work on problems from inception to completion;
-Good communication skills; and Good analytical and problem solving skills.
-You’re not expected to have 100% of these skills. At ANZ a growth mindset is at the heart of our culture and we actively encourage people to try new things. So if this role interests you and you feel you have most of these things in your toolbox, we’d love to hear from you.
-
-Soft Skills
-
-A team player - You know we only win if we all win. You recognise and value the different perspectives and skills your colleagues bring. It is not about being a hero but jumping in and contributing to the successful delivery of the team's mission
-
-The customer's biggest fan - You demonstrate a thirst for better understanding the customer and define the problem and develop solutions through their eyes
-
-Comfortable being uncomfortable - You are comfortable with uncertainty and have the ability to effectively manage yourself through ambiguity and change
-
-Continuous improvement junkie - You constructively challenge the status quo, look for better ways to do things and passionately advocate continuous improvement
-
-Committed to your own and other's growth - You strive to stretch and grow yourself and others by identifying your own development areas, seeking feedback and providing feedback to others to help them learn and grow everyday
-
-A problem solver - You are energised by tackling complex problems and use critical thinking, your network, skills, knowledge, and available data to drive better outcomes for our customers and the bank
-
-Risk savvy - You build sustainable solutions that protect customers, stakeholders and the community
-
-What will you bring?
-
-We know not everyone will bring all of the skills and experience, and at ANZ we are focused on people bringing a growth mindset to their approach to work. Some of the skills we are looking for are below, but don’t worry if you don’t have all of these as learning on the job is the way we work.
-
-But back to some of the skills –
-Customer coaching mindset
-Leadership experience
-Role models a strong customer focus, preferably with retail experience
-Enjoys working in a collaborative team environment
-Ability to multi-task, highly adaptable to change and ambiguity
-Proactive, shows initiative and keen to try new things i.e. new technologies
-
-So, why join us?
-
-There’s something special about being part of ANZ. From the moment you join us, you’re part of a team working towards a common goal: improving the financial wellbeing and sustainability of our millions of customers. And that’s big.
-
-But it’s not just our customers who will feel your impact. You’ll feel it too. Because at ANZ, you’ll have the resources and community you need to take the next big step in your career, towards even bigger things in the future.
-
-We offer a range of benefits tailored to the countries in which we operate to provide all our people:
-Health and wellbeing programs
-Discounts on selected products and services (from ANZ and beyond)
-Flexible working arrangements, lifestyle leave and career breaks
-
-You’ll also enjoy working in a diverse and inclusive workplace where the different backgrounds, perspectives and life experiences of our people are celebrated. We encourage you to talk to us about any adjustments you may require to our recruitment process or the role itself. If you are a candidate with a disability, let us know how we can provide you with additional support.
-
-To find out more about working at ANZ or to view other opportunities visit www.careers.anz.com. You may apply for this role by visiting ANZ Careers and searching for reference number 31453.
-
-Job Posting End Date
-
-10/02/2023
+Responsibilities
 About the job
-Job Description
+Position Overview
 
-Who We Are:
+Job Title-  Python Developer 
 
-Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know diverse backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+Location- Pune - Margarpatta
 
-Compute at HPE helps organizations power their edge-to-cloud platform with proven, workload-optimized products, solutions, and services. Our leading supercomputing technologies enable customers to transform and modernize their IT infrastructure, solve complex problems and support new business opportunities with purpose-built infrastructure and software.
 
-Description (Systems/Software Engr II Position)
+A lead engineer is responsible for developing and delivering elements of engineering solutions to accomplish business goals. Awareness is expected of the important engineering principles of the Bank. Root cause analysis skills are developed through addressing enhancements and fixes to products. They attempt to build reliability and resiliency into solutions through early testing, peer reviews and automating the delivery lifecycle.
 
-The primary responsibilities of this role are to Design & Developing software stack for HPE Servers and cloud based solutions. The candidate should have detailed knowledge in Computer Architecture, Operating Systems & its administration. Further good understanding of the Cloud architectures and environments along with hands on experience with cloud orchestration and provisioning tools will be an added advantage for the candidate. Should have good Analytical, communication & presentation skills who can strive in fast paced environments. The candidate should have good experience in either of Agile, DevOps or SDLC software development models.
 
-Candidate with following skills / experience is most suitable for this role.
+As part of our flexible scheme, here are just some of the benefits that you’ll enjoy
 
-What You’ll Do
 
-Develops efficient software solutions, works with customers and internal teams to enhance the product solutions.
-Determines feasibility with good understanding of problem definition, requirements and provides efficient solutions.
-Proactively drives the development of new ideas and methods from the scratch.
-Works on complex problems where analysis of situations or data requires an in-depth evaluation of multiple factors.
 
-What You Need To Bring
 
-Bachelor's or Master's degree in Computer Science or equivalent
-Minimum 3 to 5 years’ experience
 
-Knowledge And Skills
+The candidate will be:
 
-Must have detailed knowledge of Linux internals or Windows or VMware
-Knowledge of networking and storage interfaces, etc.
-Expert in most of the following languages & OS:
 
-OS: Linux, Windows, VMware
+The ideal candidate will also have an understanding on:
 
-Language: C/C++ (Visual Studio, GCC), Python, Perl Interface/Objects: ReSTful API, JSON, XML
 
-Good Understanding of Cloud Technologies & Tools:
 
-Orchestrator like Kubernetes, Dockers Swarms, Ansible, Chef, Puppet Databases/NoSQL: MongoDB, ElasticSearch Web UI: HTML5, JavaScript (JQuery/NodeJS/Reactjs/Angular),
 
-Knowledge on Linux/Windows OS & internals, with sound understanding of Computer Architecture
-Able to work in a small team with rapid turn around and tight build schedules
-Exceptional troubleshooting and debugging capability.
-Ability to analyze corner cases, timing issues, security loopholes, scaling performances, etc.
-Willing to work alone with minimal supervision as well as collaboratively.
-Must be independent, quick learner and possess strong communication skills (written and verbal).
 
-Job
+Please visit our company website for further information:
 
-Engineering
 
-Job Level
+Our values define the working environment we strive to create – diverse, supportive and welcoming of different views. We embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.
 
-Intermediate
+We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.
 
-Hewlett Packard Enterprise is EEO F/M/Protected Veteran/ Individual with Disabilities.
-
-HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.
-About the job
-About The Role
-
-At ANZ our purpose is to shape a world where people and communities thrive. We’re making this happen by improving our customers’ financial wellbeing so they can achieve incredible things – be it buying their home, building a business or saving for things big or small.
-
-At ANZ, the Information Protection tribe partners with the business and technology to ensure Security @ Speed by delivering improvements to controls that reduce the extreme information protection risk for the bank and ensuring that our existing platforms are maintained and well managed.
-
-As an Engineer in the Encryption as a Service squad, you will be working to expand the encryption and cloud key management services in the bank to allow applications to scale up rapidly and securely. This role will require you to enable systems to enhance their functional capabilities in automation, cloud coverage and instrument/product coverage.
-
-The other key component of this role is to utilise your technology engineering expertise by partnering with architecture and product owner to develop our technology roadmap and assess new technologies which drive improvement on excellence, quality and performance to ANZ globally.
-
-About You
-Experience with HashiCorp Vault (Advance Data Protection) or similar Encryption as a Service solution
-Experience or background in key management fundamentals
-Strong experience with deploying and managing Kubernetes clusters and application hosted on cloud platforms (AWS/GCP);
-Strong experience CI/CD Tools – Bitbucket/Github/Codefresh, Artifactory, Docker Registry;
-Experience in Linux administration and background in TCP/IP network fundamentals;
-Strong programming and scripting background in shell/bash scripting, python;
-Experience with provisioning\configuration management tools such as puppet, terraform;
-Experience with authentication protocols (Basic Auth, OAuth, Kubernetes Auth, LDAP);
-Experience with monitoring tools such as Dynatrace, Splunk, New Relic;
-Passionate, self-starter with the ability to work on problems from inception to completion;
-Strong communication skills; and Excellent analytical and problem solving skills.
-You’re not expected to have 100% of these skills. At ANZ a growth mindset is at the heart of our culture and we actively encourage people to try new things. So if this role interests you and you feel you have most of these things in your toolbox, we’d love to hear from you.
-
-Soft Skills
-
-A team player - You know we only win if we all win. You recognise and value the different perspectives and skills your colleagues bring. It is not about being a hero but jumping in and contributing to the successful delivery of the team's mission
-
-The customer's biggest fan - You demonstrate a thirst for better understanding the customer and define the problem and develop solutions through their eyes
-
-Comfortable being uncomfortable - You are comfortable with uncertainty and have the ability to effectively manage yourself through ambiguity and change
-
-Continuous improvement junkie - You constructively challenge the status quo, look for better ways to do things and passionately advocate continuous improvement
-
-Committed to your own and other's growth - You strive to stretch and grow yourself and others by identifying your own development areas, seeking feedback and providing feedback to others to help them learn and grow everyday
-
-A problem solver - You are energised by tackling complex problems and use critical thinking, your network, skills, knowledge, and available data to drive better outcomes for our customers and the bank
-
-Risk savvy - You build sustainable solutions that protect customers, stakeholders and the community
-
-What will you bring?
-
-We know not everyone will bring all of the skills and experience, and at ANZ we are focused on people bringing a growth mindset to their approach to work. Some of the skills we are looking for are below, but don’t worry if you don’t have all of these as learning on the job is the way we work.
-
-But back to some of the skills –
-Customer coaching mindset
-Leadership experience
-Role models a strong customer focus, preferably with retail experience
-Enjoys working in a collaborative team environment
-Ability to multi-task, highly adaptable to change and ambiguity
-Proactive, shows initiative and keen to try new things i.e. new technologies
-
-So, why join us?
-
-There’s something special about being part of ANZ. From the moment you join us, you’re part of a team working towards a common goal: improving the financial wellbeing and sustainability of our millions of customers. And that’s big.
-
-But it’s not just our customers who will feel your impact. You’ll feel it too. Because at ANZ, you’ll have the resources and community you need to take the next big step in your career, towards even bigger things in the future.
-
-We offer a range of benefits tailored to the countries in which we operate to provide all our people:
-Health and wellbeing programs
-Discounts on selected products and services (from ANZ and beyond)
-Flexible working arrangements, lifestyle leave and career breaks
-
-You’ll also enjoy working in a diverse and inclusive workplace where the different backgrounds, perspectives and life experiences of our people are celebrated. We encourage you to talk to us about any adjustments you may require to our recruitment process or the role itself. If you are a candidate with a disability, let us know how we can provide you with additional support.
-
-To find out more about working at ANZ or to view other opportunities visit www.careers.anz.com. You may apply for this role by visiting ANZ Careers and searching for reference number 31450.
-
-Job Posting End Date
-
-10/02/2023
-About the job
-This job is sourced from a job board. Learn more
-Below are the additional points for Python developer requirement :
-
-Candidate should be technically strong in the Python Development and should have good hands-on experience with Python based projects.
-Should have worked with OOPS programming concepts.
-Have some exposure with "Pandas" library in python.
-It's good to have, if the person has any specific framework level knowledge say, Flask, but that's not a must-to-have.
-We are not looking for any specific framework based expertise, but the candidate should be very strong with Python basic concepts.
-Should have worked with at least 1 database and be able to formulate SQL queries
-
-(ref:hirist.com)
+Visit Inside Deutsche Bank to discover more about the culture of Deutsche Bank including Diversity, Equity & Inclusion, Leadership, Learning, Future of Work and more besides.
