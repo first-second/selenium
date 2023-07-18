@@ -129,17 +129,6 @@ for i in range(len(links)):
 df = pd.DataFrame(list(zip(job_title, job, links)),
                   columns=['title', 'job', 'links'])
 
-def make_clickable(link):
-    return f'<a href="{link}" target="_blank">{link}</a>'
-
-# Apply clickable formatting to the 'links' column
-df['links'] = df['links'].apply(make_clickable)
-
-# Display the DataFrame with clickable links
-styled_df = df.style.format({'links': lambda x: x if pd.isnull(x) else x.replace('\n', '<br>'),
-                             'job': lambda x: x.replace('\n', '<br>')})
-html = styled_df.to_html(escape=False, index=False)
-
 # Save DataFrame to a CSV file
 df.to_csv('job_offers.csv', index=False)
 

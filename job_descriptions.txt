@@ -1,37 +1,43 @@
 About the job
-Hungry, Humble, Honest, with Heart
+About This Opportunity
 
-The Opportunity
-
-Nutanix engineers are creating a revolutionary technology, building the software defined data center. We’re using our love of programming and outstanding backgrounds to change the way companies virtualize their data center. At Nutanix, you’ll find no shortage of challenging problems to work on. We work closely with our product in a collegiate, collaborative environment that encourages the open exploration of ideas..
-
-Your Role:-
+This job role is responsible for the coordination, support, management and execution of reactive maintenance activities to ensure that services provided to customers are continuously available and performing to Service Level Agreement (SLA) performance levels!
 
 
-What You’ll Bring:-
+
+
+
+
+
+At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build never seen before solutions to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.
+
+Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we nurture it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team.
+
+Ericsson is proud to be an Equal Opportunity and Affirmative Action employer, learn more.
+
+Primary country and city: India (IN) || India : Uttar Pradesh : Noida
+
+Job details: MS Optimization & Performance Management Job Stage: Job Stage 3
+
+Primary Recruiter:
 About the job
-About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com
+"""Data Engineer :
+ Deep expert level knowledge of Python, Scala Spark
+ Application coding in Scala, Python, pySpark , SQL, and Relational Databases
+ Experience on developing with Apache Spark streaming and batch framework with Scala and PySpark
+ Good to have experience with DevOps practices and deployment models using Jenkins.
 
-15 years of full time education
+""
+
+"
 About the job
-Requirement :
+Required
+ Experience in handling and maintaining ETL and Data pipelines
+ Working knowledge on Apache Scoop, Flume, Spark, Airflow, Hive etc.
+ Experience in configuring and managing visualization tools like Grafana/Kibana, Prometheus, ELK
+ Must have good experience with system integration with cloud/On-Prem vendors.
 
-Solution Architect with 12 + years of experience
-
-Design and develop end-to-end software solutions using Python and java ensuring scalability, reliability, and performance. 
-
-
-Diversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.
-
-All employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
-
-Candidate Application Notice
-About the job
-Application Developer – Python
-
-The successful candidate will develop Python based applications for the Smart Platform in collaboration with Product Management and fellow members of the Engineering Group.
-
-Responsibilities
+Besides the professional qualifications of the candidates we place great importance in addition to various forms personality profile. These include:
 About the job
 Position Overview
 
